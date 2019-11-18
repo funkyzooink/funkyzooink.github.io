@@ -2,7 +2,6 @@
 title: "the dragon kid"
 layout: post
 date: 2019-11-18 21:10
-tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
