@@ -2,7 +2,7 @@
 title: "the dragon kid"
 layout: post
 date: 2019-11-18 21:10
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://raw.githubusercontent.com/funkyzooink/the-dragon-kid/master/android/web_hi_res_512.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
