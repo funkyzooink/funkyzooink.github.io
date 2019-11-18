@@ -54,18 +54,12 @@ github: funkyzooink
 email: funkyzooink@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    gabriel:
+        name: Gabriel
+        bio: Jack of all trades
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: funkyzooink
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -81,7 +75,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
