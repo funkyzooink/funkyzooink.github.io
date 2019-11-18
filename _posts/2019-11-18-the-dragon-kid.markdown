@@ -15,6 +15,6 @@ externalLink: false
 Very simple Mario style game.
 
 ---
-Find the source [here](https://github.com/funkyzooink/the-dragon-kid/)
+Find the source [here](https://github.com/funkyzooink/the-dragon-kid/).
 Get the latets release on [github](https://github.com/funkyzooink/fresh-engine/releases).
 If you have issues, just [tell me](https://github.com/funkyzooink/the-dragon-kid/issues).
