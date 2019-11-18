@@ -13,11 +13,9 @@ author: gabriel
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
 Very simple Mario style game.
 
 ---
-
-[Get the latets release](https://github.com/funkyzooink/fresh-engine/releases) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+Find the source [here](https://github.com/funkyzooink/the-dragon-kid/)
+Get the latets release on [github](https://github.com/funkyzooink/fresh-engine/releases).
+If you have issues, just [tell me](https://github.com/funkyzooink/the-dragon-kid/issues).
