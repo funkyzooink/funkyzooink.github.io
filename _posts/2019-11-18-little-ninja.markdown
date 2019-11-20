@@ -14,7 +14,7 @@ externalLink: false
 
 Join Little Ninja as he hunts a dark army in a classic GameBoy adventure 🗡️
 
-![alt text](https://raw.githubusercontent.com/funkyzooink/little-ninja/master/store/screenshots/5.5-inch%20(iPhone%206%2B)%20-%20Screenshot%201.jpg) "Little Ninja Screenshot")
+![alt text](https://raw.githubusercontent.com/funkyzooink/little-ninja/master/store/screenshots/5.5-inch%20(iPhone%206%2B)%20-%20Screenshot%201.jpg "Little Ninja Screenshot")
 
 Among the open fields of the peaceful farm lands, Little Ninja's home is overrun by a dark force... He has no choice but to defend himself, and everything he loves.  
 The dark army is relentless, fearless, and leaves only destruction in its path.  Who controls this dark army? 🏯 Is it a wizard? ... a sorcerer?   

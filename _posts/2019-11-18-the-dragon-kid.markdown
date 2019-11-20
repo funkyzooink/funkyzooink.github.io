@@ -14,7 +14,7 @@ externalLink: false
 
 The Dragon Kid is on a journey through mystery world 🕹️
 
-![alt text](https://raw.githubusercontent.com/funkyzooink/the-dragon-kid/master/store/screenshots/TheDragonKid.png) "The Dragon Kid Screenshot")
+![alt text](https://raw.githubusercontent.com/funkyzooink/the-dragon-kid/master/store/screenshots/TheDragonKid.png "The Dragon Kid Screenshot")
 
 The Dragon Kid is on a journey through mystery world - a classical platform / jump and run game.
 
